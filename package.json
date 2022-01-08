@@ -2,13 +2,6 @@
   "name": "rexom",
   "version": "3.0.0",
   "description": "Rexom - tune for your server",
-  "main": "./source/index.js",
-  "scripts": {
-    "build": "npm install && npx node@latest ./source/index.js",
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "npx node ./source/index.js",
-    "dev": "nodemon ./source/index.js"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/DevelopersSupportAR/rexom.git"
