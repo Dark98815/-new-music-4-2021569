@@ -22,6 +22,9 @@
   ],
   "author": "NIRO",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DevelopersSupportAR/rexom/issues"
+  },
   "homepage": "https://github.com/DevelopersSupportAR/rexom#readme",
   "dependencies": {
     "@discordjs/opus": "^0.7.0",
