@@ -1,0 +1,29 @@
+{
+  "activity": {
+    "name": "4play | Paris Community",
+    "type": "PLAYING"
+  },
+  "status": "idle",
+
+  "domain": "<The Bot Website Domain (the dashboard domain)>",
+  "clientID": "929348710293463040",
+  "clientSECRET": "kBLj3DtqbSO4mefX0qTtd3-Ebd6G8Vk7",
+
+  "mainPrefix": "4",
+  "mainLang": "ar",
+  "ownerID": "238374208537624578",
+
+  "panelType": "buttons",
+  "replyType": "embeds",
+
+  "leaveOnEmpty": "true",
+  "leaveOnStop": "true",
+  "leaveOnFinish": "true",
+  "searchSongs": "0",
+  "api": {
+    "spotify": {
+      "clientID": "none",
+      "clientSECRET": "none"
+    }
+  }
+}
